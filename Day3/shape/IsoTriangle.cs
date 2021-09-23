@@ -35,7 +35,7 @@ namespace ShapeProject
             type = "Isosceles triangle";
         }
 
-        public void Show()
+        public override void Show()
         {
             Console.WriteLine(Type + ":" + Name);
             Console.WriteLine("Sides : " + Side);

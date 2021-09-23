@@ -28,7 +28,7 @@ namespace ShapeProject
             type = "Circle";
         }
 
-        public void Show()
+        public override void Show()
         {
             System.Console.WriteLine(Type + ":" + Name);
             System.Console.WriteLine("Radius: " + Radius);

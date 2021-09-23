@@ -34,7 +34,7 @@ namespace ShapeProject
             type = "Shape";
         }
 
-        public void Show()
+        public virtual void Show()
         {
             Console.WriteLine(Type + ":" + Name);
         }

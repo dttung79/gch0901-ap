@@ -62,7 +62,7 @@ namespace ShapeProject
             return 3.14 * hradius * vradius;
         }
 
-        public void Show()
+        public override void Show()
         {
             base.Show();
             Console.WriteLine("Radiuses: (" + vradius + ", " + hradius + ")");            

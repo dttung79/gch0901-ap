@@ -72,7 +72,7 @@ namespace ShapeProject
             type = "Triangle";
         }
 
-        public void Show()
+        public override void Show()
         {
             base.Show();
             Console.WriteLine("Side 1: " + side1);
