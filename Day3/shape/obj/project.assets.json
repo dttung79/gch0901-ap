@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tungdt/Tmp/gch0901-ap/Day3/shape/shape.csproj",
+      "projectUniqueName": "/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/shape.csproj",
       "projectName": "shape",
-      "projectPath": "/Users/tungdt/Tmp/gch0901-ap/Day3/shape/shape.csproj",
+      "projectPath": "/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/shape.csproj",
       "packagesPath": "/Users/tungdt/.nuget/packages/",
-      "outputPath": "/Users/tungdt/Tmp/gch0901-ap/Day3/shape/obj/",
+      "outputPath": "/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tungdt/.nuget/NuGet/NuGet.Config"

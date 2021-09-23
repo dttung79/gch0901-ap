@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/bin/Debug/net5.0/shape.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/bin/Debug/net5.0/shape.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/bin/Debug/net5.0/shape.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/bin/Debug/net5.0/shape.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/bin/Debug/net5.0/ref/shape.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/bin/Debug/net5.0/shape.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/ref/shape.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day3/shape/obj/Debug/net5.0/shape.genruntimeconfig.cache

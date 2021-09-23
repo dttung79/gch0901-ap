@@ -79,9 +79,9 @@ namespace ShapeProject
             Console.WriteLine("Side 2: " + side2);
             Console.WriteLine("Side 3: " + side3);
         }
-        public double Area()
+        public override double Area()
         {
-            double p = (side1 + side2 + side3)/2;
+            double p = (side1 + side2 + side3)/2.0;
             
             return Math.Sqrt(p*(p-side1)*(p-side2)*(p-side3));
         }

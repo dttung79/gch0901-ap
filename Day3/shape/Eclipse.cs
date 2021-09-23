@@ -57,9 +57,9 @@ namespace ShapeProject
             type = "Eclipse";
         }
 
-        public double Area()
+        public override double Area()
         {           
-            return 3.14*hradius*vradius;
+            return 3.14 * hradius * vradius;
         }
 
         public void Show()

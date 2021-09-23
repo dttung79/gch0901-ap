@@ -34,10 +34,5 @@ namespace ShapeProject
             System.Console.WriteLine("Radius: " + Radius);
         }
 
-        public double Area()
-        {
-            return base.Area();
-            
-        }
     }
 }

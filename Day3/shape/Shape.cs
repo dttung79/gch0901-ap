@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ShapeProject
 {
-    public class Shape
+    public abstract class Shape
     {
         private string name;
 
@@ -38,11 +38,6 @@ namespace ShapeProject
         {
             Console.WriteLine(Type + ":" + Name);
         }
-
-        private double area;
-        public double Area()
-        {
-            return 0.0;
-        }
+        public abstract double Area();   // No implementation for abstract method
     }
 }
