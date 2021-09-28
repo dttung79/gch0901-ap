@@ -7,7 +7,7 @@ namespace student
 {
     public abstract class MenuProgram
     {
-        public virtual void run()
+        public virtual void Run()
         {
             bool running = true;
             while (running) 
