@@ -6,7 +6,9 @@ namespace products
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProductManager p = new ProductManager();
+            p.Run();
         }
+
     }
 }
