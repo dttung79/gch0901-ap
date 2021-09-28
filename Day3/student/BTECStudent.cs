@@ -7,7 +7,13 @@ public class BTECStudent : Student
     public string Grade 
     {
         get { return grade; }
-        set { grade = value; } // HW: validate value must be "P", "M", "D", else => "P"
+        set 
+        { 
+            if (grade == "P" || grade == "M" || grade == "D")
+                grade = value; 
+            else
+                grade = "P";
+        } 
     }
 
     public BTECStudent() 

@@ -7,7 +7,12 @@ public class TopupStudent : Student
     public int Grade 
     {
         get { return grade; }
-        set { grade = value; } // HW: validate valude in [0, 100]
+        set 
+        { 
+            if (grade < 0) grade = 0;
+            else if (grade > 100) grade = 100;
+            else grade = value; 
+        } // HW: validate valude in [0, 100]
     }
     public TopupStudent()
     {
