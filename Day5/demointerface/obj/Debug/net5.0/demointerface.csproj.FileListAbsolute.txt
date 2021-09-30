@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/bin/Debug/net5.0/demointerface.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/bin/Debug/net5.0/demointerface.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/bin/Debug/net5.0/demointerface.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/bin/Debug/net5.0/demointerface.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/bin/Debug/net5.0/ref/demointerface.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/bin/Debug/net5.0/demointerface.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/ref/demointerface.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day5/demointerface/obj/Debug/net5.0/demointerface.genruntimeconfig.cache
