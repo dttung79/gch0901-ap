@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/bin/Debug/net5.0/demo_exception.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/bin/Debug/net5.0/demo_exception.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/bin/Debug/net5.0/demo_exception.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/bin/Debug/net5.0/demo_exception.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/bin/Debug/net5.0/ref/demo_exception.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/bin/Debug/net5.0/demo_exception.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/ref/demo_exception.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_exception/obj/Debug/net5.0/demo_exception.genruntimeconfig.cache
