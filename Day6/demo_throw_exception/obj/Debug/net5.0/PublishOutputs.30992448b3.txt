@@ -1,0 +1,4 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_throw_exception/bin/Debug/net5.0/publish/demo_throw_exception.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_throw_exception/bin/Debug/net5.0/publish/demo_throw_exception.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_throw_exception/bin/Debug/net5.0/publish/demo_throw_exception.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0901/Demo/gch0901-ap/Day6/demo_throw_exception/bin/Debug/net5.0/publish/demo_throw_exception.pdb
