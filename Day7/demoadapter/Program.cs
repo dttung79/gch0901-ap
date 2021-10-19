@@ -32,6 +32,20 @@ namespace demoadapter
             b.Add(new Rectangle(6, 3));
 
             b.RePaint();
+
+            b.CopyShape(2);
+            Triangle t = (Triangle)b.GetShape(4);
+            t.Height = 3;
+
+            System.Console.WriteLine("---------- REFRESH ----------");
+
+            b.CopyShape(3);
+            Rectangle r = (Rectangle) b.GetShape(5);
+            r.Width = 3;
+            
+
+            b.RePaint();
         }
+
     }
 }

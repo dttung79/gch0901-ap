@@ -29,5 +29,10 @@ namespace demoadapter
         {
             text.Print();
         }
+        public override Shape Clone()
+        {
+            TextShape copyTextShape = new TextShape(text.Content);
+            return copyTextShape;
+        }
     }
 }

@@ -8,5 +8,6 @@ namespace demoadapter
     public abstract class Shape
     {
         public abstract void Draw();
+        public abstract Shape Clone();
     }
 }

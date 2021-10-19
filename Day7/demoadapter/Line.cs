@@ -24,5 +24,11 @@ namespace demoadapter
             for (int i = 0; i < Length; i++) System.Console.Write("--");
             System.Console.WriteLine("+");
         }
+
+        public override Shape Clone()
+        {
+            Line copyLine = new Line(Length);
+            return copyLine;
+        }
     }
 }

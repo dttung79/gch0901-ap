@@ -25,5 +25,16 @@ namespace demoadapter
                 s.Draw();
             }
         }
+
+        public void CopyShape(int index)
+        {
+            Shape copyShape = shapes[index].Clone();
+            shapes.Add(copyShape);
+        }
+
+        public Shape GetShape(int index)
+        {
+            return shapes[index];
+        }
     }
 }

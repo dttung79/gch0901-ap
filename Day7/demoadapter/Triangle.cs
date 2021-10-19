@@ -27,5 +27,11 @@ namespace demoadapter
                 System.Console.WriteLine();
             }
         }
+
+        public override Shape Clone()
+        {
+            Triangle copyTriangle = new Triangle(Height);
+            return copyTriangle;
+        }
     }
 }

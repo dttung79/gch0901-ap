@@ -36,5 +36,11 @@ namespace demoadapter
 
             side.Draw();
         }
+
+        public override Shape Clone()
+        {
+            Rectangle copyRect = new Rectangle(Width, Height);
+            return copyRect;
+        }
     }
 }
